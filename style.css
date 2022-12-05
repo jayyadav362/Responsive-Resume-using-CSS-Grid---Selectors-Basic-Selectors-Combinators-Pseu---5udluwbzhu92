@@ -166,7 +166,7 @@ i{
 .experience-content>*{
     margin-top: 5px;
 }
-@media screen and (max-width: 674px) {
+@media screen and (max-width: 673px) {
     .main-content{
         grid-template-columns: repeat(1, 1fr);
     }
