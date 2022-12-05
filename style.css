@@ -84,7 +84,12 @@ i{
     padding-top: 10px;
 }
 .skills{
-    width: 100%;
+    font-size: 0.75rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
 }
 .skills-title{
     font-size: 0.75rem;
@@ -161,7 +166,7 @@ i{
 .experience-content>*{
     margin-top: 5px;
 }
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 674px) {
     .main-content{
         grid-template-columns: repeat(1, 1fr);
     }
